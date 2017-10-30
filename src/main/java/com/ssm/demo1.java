@@ -7,4 +7,7 @@ public class demo1 {
 	//bak
 	public void add(){};
 	
+	//show
+	public void update(){};
+	
 }
